@@ -1,0 +1,70 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Deep Learning for Computer Vision",
+      "issuer": "NPTEL",
+      "date": "March 2024",
+      "credentialId": "AWS-SAA-2023-001",
+      "image": "/Certificates/Courses/NPTEL Deep Learning for CV.jpg",
+      "description": "NPTEL-certified in Deep Learning for Computer Vision, adept at designing and implementing neural network solutions for image analysis.",
+      "skills": ["Computer Vision", "Fine- Tuning", "Image Classification"],
+      "verifyLink": "https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs89/Course/NPTEL24CS89S35630040304266345.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Python for Data Science",
+      "issuer": "NPTEL",
+      "date": "April 2024",
+      "credentialId": "GCP-PDE-2023-002",
+      "image": "/Certificates/Courses/NPTEL Python DS.jpg",
+      "description": "Certified in Python for Data Science by NPTEL, with expertise in data manipulation and visualization.",
+      "skills": ["Data Science", "Manipulating Data", "Data Analytics"],
+      "verifyLink":"https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs54/Course/NPTEL24CS54S55340170730154503.pdf"
+    },
+    {
+      "id": 3,
+      "title": "PowerBI and Tableau",
+      "issuer": "Imarticus Learning",
+      "date": "March 2024",
+      "credentialId": "AZ-900-2022-003",
+      "image": "/Certificates/Courses/PowerBI and Tableau.jpg",
+      "description": "Certified in Power BI and Tableau, skilled at creating interactive dashboards and transforming data into actionable insights.",
+      "skills": ["PowerBI", "Tableau", "Data Visualization"],
+      "verifyLink": ""
+    },
+    {
+      "id": 4,
+      "title": "Programming in Java",
+      "issuer": "NPTEL",
+      "date": "November 2023",
+      "credentialId": "CKA-2023-004",
+      "image": "/Certificates/Courses/NPTEL Java.jpg",
+      "description": "Proficient in core and advanced Java concepts, including OOP, exception handling, and multithreading, through NPTEL.",
+      "skills": ["Java", "OOP", "Multithreading"],
+      "verifyLink": "https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs74/Course/NPTEL23CS74S3334239720348566.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Probem Solving Through Programming in C",
+      "issuer": "NPTEL",
+      "date": "May 2023",
+      "credentialId": "PCAP-2022-005",
+      "image": "/Certificates/Courses/Problem Solving Through Programming in C.jpg",
+      "description": "Strong foundation in C programming, emphasizing problem-solving, memory management, and logic building.",
+      "skills": ["C Programming", "Memory Management"],
+      "verifyLink": "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS53S1334802404253062"
+    },
+    {
+      "id": 6,
+      "title": "C, C++, Python with Data Science & Java",
+      "issuer": "Cogtis Technology",
+      "date": "May 2023",
+      "credentialId": "CSM-2023-006",
+      "image": "/Certificates/Courses/Cogtis.jpg",
+      "description": "Certified Developer skilled in C, C++, Java, and Python for full-stack and data-driven applications.",
+      "skills": ["C", "C++", "Python", "Data Scien", "Java"],
+      "verifyLink": ""
+    }
+  ]
+}

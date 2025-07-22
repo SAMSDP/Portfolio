@@ -1,0 +1,26 @@
+{
+  "title": "Builder of Smart Systems & Elegant Interfaces",
+  "description": "I'm a full-stack developer passionate about blending AI with web technologies to build meaningful digital experiences. From leading a 17-member team to build my college’s official website, to developing AI-powered solutions like an automated Timetable Generator and a Smart CCTV Alert System, I love turning bold ideas into polished, scalable systems. When I’m not coding, I’m exploring cutting-edge tech, polishing my DSA skills, or mentoring peers in their dev journey.",
+  "details": [
+    {
+      "label": "Certifications",
+      "value": "6 Professional",
+      "type": "certifications"
+    },
+    {
+      "label": "Hackathons",
+      "value": "5+ Participated",
+      "type": "normal"
+    },
+    {
+      "label": "Projects",
+      "value": "5+ Completed",
+      "type": "normal"
+    },
+    {
+      "label": "Leetcode",
+      "value": "30+ Solved",
+      "type": "normal"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "contactInfo": [
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "samsdpaul150@gmail.com"
+    },
+    {
+      "type": "phone",
+      "label": "Phone",
+      "value": "+91 93610 45927"
+    },
+    {
+      "type": "location",
+      "label": "Location",
+      "value": "Chennai, Tamil Nadu, India"
+    }
+  ]
+}

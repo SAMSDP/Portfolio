@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Official Website – Velammal Engineering College (In Deployment Phase)",
+      "description": "Led a 17-member team to develop the official Velammal Engineering College website using the MERN stack, coordinating closely with college officials for seamless execution.",
+      "image": "/Projects/Official VEC Website.jpg",
+      "category": "Web",
+      "technologies": ["React", "Node.js", "MongoDB", "AWS", "Python"],
+      "github": "https://github.com/SAMSDP/VEC_Landing.git",
+      "demo": "https://localvec1.duckdns.org/"
+    },
+    {
+      "id": 2,
+      "title": "Sentinel Cam - Real Time CCTV Coordination",
+      "description": "Built an AI-powered CCTV system that detects, tracks, and alerts on criminals in real-time using facial recognition and live camera coordination.",
+      "image": "/Projects/Sentinel Cam.jpg",
+      "category": "AI",
+      "technologies": ["React", "AI Algorithms"],
+      "github": "https://github.com",
+      "demo": "https://demo.com"
+    },
+    {
+      "id": 3,
+      "title": "AI Powered Timetable Generator",
+      "description": "Built an AI-powered timetable generator using React, Node.js, and MongoDB, optimizing schedules with 95% constraint satisfaction based on faculty, rooms, and course data.",
+      "image": "/Projects/AI Powered Dynamic Timetable Generator.jpg",
+      "category": "AI",
+      "technologies": ["React", "Node", "MongoDB", "AI Algorithms"],
+      "github": "https://github.com/janavishreya/AI_Powered_Timetable_Generator.git",
+      "demo": "https://demo.com"
+    },
+    {
+      "id": 4,
+      "title": "Pave Ease",
+      "description": "Developed an AI-powered mobile app to assist disabled individuals in navigating public spaces and accessing real-time shop status information.",
+      "image": "/Projects/Pave Ease.jpg",
+      "category": "App",
+      "technologies": ["Qt Designer", "Speech Recognition", "PyQt5"],
+      "github": "https://github.com",
+      "demo": "https://demo.com"
+    },
+    {
+      "id": 5,
+      "title": "Stock Price Movement Predictor",
+      "description": "Built an LSTM-based stock price predictor with 94% accuracy for AAPL, using yfinance data and a Flask web interface.",
+      "image": "/Projects/Stock price movement predictor.jpg",
+      "category": "AI",
+      "technologies": ["Python", "LSTM", "yFinance API", "Flask"],
+      "github": "https://github.com/SAMSDP/Stock-Price-Movement-Predictor.git",
+      "demo": "https://demo.com"
+    },
+    {
+      "id": 6,
+      "title": "E-Commerce Comparision Website",
+      "description": "Created a Flask-based price comparison site that shows real-time product prices across e-commerce platforms with a clear best-buy highlight.",
+      "image": "/Projects/E - Comparision Website.png",
+      "category": "Web",
+      "technologies": ["Flask", "HTML", "CSS"],
+      "github": "https://github.com/janavishreya/E-Commerce_comparison_website.git",
+      "demo": "https://demo.com"
+    }
+  ]
+}

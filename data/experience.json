@@ -1,0 +1,13 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "position": "Web Developer Intern",
+      "company": "Atlanwa",
+      "duration": "November 2024 - December 2024",
+      "location": "Ambattur, Chennai",
+      "description": "Led a 9-member team to build an HR Dashboard website using HTML, CSS, Flask, and MySQL, enabling streamlined employee management and attendance tracking..",
+      "technologies": ["Flask", "HTML", "CSS", "MySQL", "Git"]
+    }
+  ]
+}

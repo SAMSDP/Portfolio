@@ -1,0 +1,140 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "icon": "🐍"
+    },
+    {
+      "name": "C",
+      "icon": "⚡"
+    },
+    {
+      "name": "C++",
+      "icon": "🔧"
+    },
+    {
+      "name": "SQL",
+      "icon": "🗃️"
+    },
+    {
+      "name": "Java",
+      "icon": "☕"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "🟨"
+    },
+    {
+      "name": "HTML",
+      "icon": "🌐"
+    },
+    {
+      "name": "CSS",
+      "icon": "🎨"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Tensorflow",
+      "icon": "🐼"
+    },
+    {
+      "name": "Pytorch",
+      "icon": "🔢"
+    },
+    {
+      "name": "Scikit-Learn",
+      "icon": "🤖"
+    },
+    {
+      "name": "Matplotlib",
+      "icon": "📊"
+    },
+    {
+      "name": "Flask",
+      "icon": "🌶️"
+    },
+    {
+      "name": "Node.js",
+      "icon": "🟢"
+    },
+    {
+      "name": "React",
+      "icon": "⚛️"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Power BI",
+      "icon": "📈"
+    },
+    {
+      "name": "Excel",
+      "icon": "📋"
+    },
+    {
+      "name": "PowerPoint",
+      "icon": "📽️"
+    },
+    {
+      "name": "Tableau",
+      "icon": "📊"
+    },
+    {
+      "name": "MySQL",
+      "icon": "🐬"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "🍃"
+    },
+    {
+      "name": "Git",
+      "icon": "📚"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "VS Code",
+      "icon": "💻"
+    },
+    {
+      "name": "Jupyter",
+      "icon": "📓"
+    },
+    {
+      "name": "PyCharm",
+      "icon": "🐍"
+    },
+    {
+      "name": "Google Colab",
+      "icon": "🔬"
+    },
+    {
+      "name": "GitHub",
+      "icon": "🐙"
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Rapport Building",
+      "icon": "🤝"
+    },
+    {
+      "name": "Communication",
+      "icon": "💬"
+    },
+    {
+      "name": "People Management",
+      "icon": "👥"
+    },
+    {
+      "name": "Leadership",
+      "icon": "👑"
+    },
+    {
+      "name": "Team Collaboration",
+      "icon": "🤝"
+    }
+  ]
+}
